@@ -1,0 +1,13 @@
+{
+  // See https://go.microsoft.com/fwlink/?linkid=830387
+  // for information about launch.json attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Open DateAndTime.htm",
+      "file": "${workspaceFolder}/DateAndTime.htm"
+    }
+  ]
+}
